@@ -2,6 +2,8 @@
 
 ###
 
+## My skills
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -22,6 +24,8 @@
 </div>
 
 ###
+
+## Where to find me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ugurcan-elagoz/" target="_blank">
