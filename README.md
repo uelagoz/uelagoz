@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ugurcan and I'm a Computer Engineer, from Turkey.</h2>
+<h2 align="left">Hi 👋! My name is Ugurcan and I'm a Computer Engineer.</h2>
 
 ###
 
